@@ -1,2 +1,2 @@
 echo "hello world!"
-Remove-Item ./StartScript.ps1
+echo "file should be gone yay :D"
