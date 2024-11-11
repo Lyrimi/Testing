@@ -1,2 +1,2 @@
-echo "hello world!"
-echo "file should be gone yay :D"
+Write-Output "hello world!"
+Write-Output "file should be gone yay :D"
