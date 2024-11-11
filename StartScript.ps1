@@ -1,2 +1,2 @@
 echo "hello world!"
-rm ./StartScript.ps1
+Remove-Item ./StartScript.ps1
