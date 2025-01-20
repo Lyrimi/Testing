@@ -1,5 +1,5 @@
 Set-Location $HOME\Downloads
-New-Item "No.txt"
+New-Item -Path "No.txt"
 Set-Content -Path .\No.txt -Value "No Perhaps?" 
 notepad.exe "No.txt"
 
